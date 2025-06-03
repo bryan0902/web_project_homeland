@@ -1,0 +1,25 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  font-family: "inter", sans-serif;
+}
+
+.footer__text {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+@media screen and (max-width: 1024px) {
+  .footer__text {
+    font-size: 14px;
+    line-height: 16px;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .footer__text {
+    font-size: 14px;
+    line-height: 14px;
+  }
+}
