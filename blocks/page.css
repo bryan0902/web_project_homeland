@@ -5,3 +5,25 @@
   color: #ffffff;
   font-family: "inter", sans-serif;
 }
+
+.page__logo {
+  width: 254.84px;
+  height: 69px;
+  margin-top: 34px;
+}
+
+@media screen and (max-width: 1024px) {
+  .page__logo {
+    width: 254px;
+    height: 66px;
+    margin-top: 30px;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .page__logo {
+    width: 188px;
+    height: 52px;
+    margin-top: 20px;
+  }
+}
