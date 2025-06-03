@@ -61,11 +61,11 @@
     width: 100%;
   }
 
-  .intro__appointment--text {
+  .intro__appointment-text {
     margin: 50px 0 0 0;
   }
 
-  .intro__appointment--author {
+  .intro__appointment-author {
     margin: 0;
     width: 100%;
   }
@@ -94,7 +94,7 @@
     width: 100%;
   }
 
-  .intro__appointment--author {
+  .intro__appointment-author {
     margin: 10px 0 0 0;
     width: 100%;
   }
