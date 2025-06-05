@@ -49,6 +49,10 @@ ul {
   .header {
     padding: 90px 0 0 0;
   }
+
+  .header__content {
+    max-width: 100%;
+  }
   .header__title {
     font-size: 75px;
     line-height: 79px;
@@ -60,6 +64,7 @@ ul {
 
   .header__subtitle {
     margin: 25px 0 0 0;
+    max-width: 720px;
   }
 
   .header__content-img {
